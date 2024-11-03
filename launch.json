@@ -6,7 +6,7 @@
         "request": "launch",
         "name": "Launch Program",
         "skipFiles": ["<node_internals>/**"],
-        "program": "C:/Users/psudh/Downloads/Lab Task/index.js"  // Absolute path to index.js
+        "program": "C:/Users/psudh/Downloads/Lab Task/index.js"
       }
     ]
   }
